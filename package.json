@@ -9,7 +9,7 @@
   },
   "author": "Piravin K C M",
   "license": "ISC",
-  "homepage":"https://piravin.github.com/confusion",
+  "homepage":"https://piravin.github.io/confusion",
   "dependencies": {
     "bootstrap": "^4.5.2",
     "bootstrap-social": "^5.1.1",
